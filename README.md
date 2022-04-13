@@ -1,7 +1,7 @@
 # TzFel17. Welcome To My Profile!
 
 
-- ☕ Java Developer
+- ☕ Junior Java Developer
 - 📚 Paper & Fabric API
 
 - ♾️ Founder of Infinium SMP
