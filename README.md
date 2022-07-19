@@ -5,4 +5,4 @@
 - 📚 Paper & Fabric API
 
 - ♾️ Founder of Infinium SMP
-- 🔴🌑 Developer of TheAbyss SMP & In The Darkness SMP
+- 🔴🌑 Developer of TheAbyss SMP
